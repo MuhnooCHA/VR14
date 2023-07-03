@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Work/StartUnreal0703/Content/StartUnreal/BP_MoveLeftRight.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/BP_MoveRect.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/BP_Timer.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_Timer.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_MoveLeftRight.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_MoveRect.uasset",
+				"C:/Work/StartUnreal0703/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WL/36QSSUEIYDOZLQ07RGQOJL.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/VU/CXG53EJ5NSDILV2IVYMHI5.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/BP_GameMode.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/BP_GameState.uasset",
+				"C:/Work/StartUnreal0703/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SA/6VBKZKD3P77CZJ1NSKNIRL.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/EN_MoveType.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_Ball.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_SpawnArea.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_SwitchBox.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/Cube2.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/MyCube.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9C/56AA9CJO7R3X2BV7GF7XXS.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RE/0P5YKKFGFS3RFAZTHU87AU.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LY/IXSKZ41IJR4YY4JW6D8UV3.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZP/Y1V6RWI2UUT69P2LTQSRO7.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/X0/HUYTROOYDYO2GZ0DOG90UD.uasset",
+				"C:/Work/StartUnreal0703/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TC/3NXLK2ZI6O6IQ6K0W1CDC2.uasset",
+				"C:/Work/StartUnreal0703/Content/StartUnreal/AdvancedClass/BP_EventActor.uasset",
+				"C:/Work/StartUnreal0703/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset",
+				"C:/Work/StartUnreal0703/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset"
+			]
+		}
+	]
+}
